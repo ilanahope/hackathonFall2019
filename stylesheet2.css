@@ -1,0 +1,35 @@
+
+h1.uplift1{
+  text-align:center;
+  font-family: 'Bad Script', cursive;
+  color: #FFD870;
+  font-style: script;
+}
+body{
+  align: center;
+  background-color: #85B8FF;
+  color:white;
+}
+p{
+  text-align:center;
+}
+button{
+  align: center;
+}
+ul{
+  list-style-type: none;
+  style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li{
+  float:left;
+}
+li a{
+  display: block;
+  text-decoration: none;
+  color: #8268D1;
+  text-align: center;
+  padding: 8px 8px;
+}
