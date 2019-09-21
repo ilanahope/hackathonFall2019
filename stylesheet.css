@@ -14,8 +14,10 @@ li a {
   text-decoration: none;
 }
 
-.loginn{
+body {
   align: center;
-  float: center;
-  padding-left: 45%;
+}
+
+div {
+  align: center;
 }
