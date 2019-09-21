@@ -10,29 +10,6 @@ body {
   background-color: #85B8FF;
 }
 
-#button1 {
-  align: center;
-  text-align: center;
-}
-
-#Button2 {
-  align: center;
-  text-align: center;
-}
-
 li a {
   text-decoration: none;
-}
-
-.login {
-  align: center;
-  float: center;
-  padding-left: 45%;
-}
-button {
-  align:center;
-}
-
-* {
-  align:center;
 }
