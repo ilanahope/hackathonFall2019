@@ -13,3 +13,9 @@ body {
 li a {
   text-decoration: none;
 }
+
+.login {
+  align: center;
+  float: center;
+  padding-left: 45%;
+}
